@@ -297,6 +297,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/2.2/snakeyaml-2.2.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/dataframe-jdbc/0.14.2/dataframe-jdbc-0.14.2.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1.jar" />
+      <root url="file://$USER_HOME$/.cache/JetBrains/IdeaIC2025.1/kotlinNotebook/phys-2-lab2.bd628a61/kernels/0.12.0-423/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-423.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -590,6 +591,7 @@
       <root url="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/2.2/snakeyaml-2.2-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/dataframe-jdbc/0.14.2/dataframe-jdbc-0.14.2-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/3.4.1/mariadb-java-client-3.4.1-sources.jar" />
+      <root url="file://$USER_HOME$/.cache/JetBrains/IdeaIC2025.1/kotlinNotebook/phys-2-lab2.bd628a61/kernels/0.12.0-423/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-423-sources.jar" />
     </SOURCES>
   </library>
 </component>

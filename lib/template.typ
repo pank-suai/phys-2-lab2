@@ -13,7 +13,9 @@
 
   show heading: set text(size: 14pt)
 
-  set page(margin: (top: 20mm, bottom: 20mm, left: 30mm, right: 15mm))
+  counter(page).update(3)
+  set page(margin: (top: 20mm, bottom: 20mm, left: 20mm, right: 20mm), number-align: center + top, numbering: "1")
+  
 
   show figure.where(kind: table): set figure.caption(position: top)
   show figure.where(kind: table): it => {
@@ -25,6 +27,7 @@
   set list(indent: 1.25cm, marker: [--])
 
   set math.equation(numbering: "(1)")
+  //show figure: set block(breakable: true)
 
   show ref: it => {
     let eq = math.equation

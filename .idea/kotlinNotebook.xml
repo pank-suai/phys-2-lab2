@@ -2,8 +2,8 @@
 <project version="4">
   <component name="KotlinNotebookOptionsProvider">
     <option name="heapMaxLimitInMib" value="4909" />
-    <option name="jdkName" value="corretto-21" />
+    <option name="jdkName" value="21" />
     <option name="jvmTargetForSnippets" value="21" />
-    <option name="kernelVersion" value="0.12.0-423" />
+    <option name="kernelVersion" value="0.12.0-424" />
   </component>
 </project>
